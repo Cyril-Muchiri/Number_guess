@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Higher or lower</string>
+    <string name="am_thinking_of_a_number_between_1_20">Am thinking of a number between 1-20</string>
+</resources>
